@@ -1,7 +1,7 @@
 <!-- ## ⛏️ In progress... -->
 
 <!--
-**alvarobarrena02/alvarobarrena02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alvarobarrenadev/alvarobarrenadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -23,34 +23,27 @@ Currently, I am honing my skills in **Full-Stack Development** and **Data Visual
 
 <div>
   <a>
-   <img src="https://komarev.com/ghpvc/?username=alvarobarrena02&style=flat-square&color=blue"/>
+   <img src="https://komarev.com/ghpvc/?username=alvarobarrenadev&style=flat-square&color=blue"/>
   <a/>
 <div>
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, JavaScript, TypeScript
-- **Frameworks:** Streamlit, Django, React, Astro
-- **Tools:** Git
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **CMS:** WordPress
-
-## 🛠️ Habilidades Técnicas
 
 <p align="left">
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Streamlit.svg" alt="Streamlit" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Astro.svg" alt="Astro" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Git.svg" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Mysql.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Mongodb.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Wordpress.svg" alt="WordPress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
 </p>
 
 ---
@@ -64,7 +57,7 @@ Currently, I am honing my skills in **Full-Stack Development** and **Data Visual
 ---
 
 ## 📈 Badges
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarobarrena02&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarobarrenadev&show_icons=true&theme=radical)
 ---
 
 ## 🌐 Connect with Me
