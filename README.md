@@ -46,7 +46,7 @@ Currently, I am honing my skills in **Full-Stack Development** and **Data Visual
  - 🌟 In progress
 ---
 
-## 📈 GitHub Stats
+## 📈 Badges
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarobarrena02&show_icons=true&theme=radical)
 ---
 
