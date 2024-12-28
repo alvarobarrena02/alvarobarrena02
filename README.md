@@ -36,6 +36,23 @@ Currently, I am honing my skills in **Full-Stack Development** and **Data Visual
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **CMS:** WordPress
 
+## 🛠️ Habilidades Técnicas
+
+<p align="left">
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Streamlit.svg" alt="Streamlit" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg" alt="React" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Astro.svg" alt="Astro" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Git.svg" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Mysql.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Mongodb.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Wordpress.svg" alt="WordPress" width="40" height="40"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects
